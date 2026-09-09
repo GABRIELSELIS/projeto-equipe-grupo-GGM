@@ -1,4 +1,4 @@
-# projeto-equipe-grupo-GGM
+
 ## Quem Somos
 
 | Foto | Integrante | Cargo / Função | GitHub |
