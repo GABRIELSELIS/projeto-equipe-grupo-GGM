@@ -1,4 +1,4 @@
-# 🚀 MGG: Seu Ecossistema de Estudos
+#  MGG: Seu Ecossistema de Estudos
 
 > 
 
